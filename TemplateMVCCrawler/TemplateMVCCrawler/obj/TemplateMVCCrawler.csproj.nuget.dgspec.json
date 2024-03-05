@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gestaomargiteens\\Documents\\TemplateMVCCrawler\\TemplateMVCCrawler\\TemplateMVCCrawler.csproj": {}
+    "C:\\Users\\gestaomargiteens\\Documents\\GitHubRegymatrix\\templateMVCCrawler\\TemplateMVCCrawler\\TemplateMVCCrawler\\TemplateMVCCrawler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gestaomargiteens\\Documents\\TemplateMVCCrawler\\TemplateMVCCrawler\\TemplateMVCCrawler.csproj": {
+    "C:\\Users\\gestaomargiteens\\Documents\\GitHubRegymatrix\\templateMVCCrawler\\TemplateMVCCrawler\\TemplateMVCCrawler\\TemplateMVCCrawler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gestaomargiteens\\Documents\\TemplateMVCCrawler\\TemplateMVCCrawler\\TemplateMVCCrawler.csproj",
+        "projectUniqueName": "C:\\Users\\gestaomargiteens\\Documents\\GitHubRegymatrix\\templateMVCCrawler\\TemplateMVCCrawler\\TemplateMVCCrawler\\TemplateMVCCrawler.csproj",
         "projectName": "TemplateMVCCrawler",
-        "projectPath": "C:\\Users\\gestaomargiteens\\Documents\\TemplateMVCCrawler\\TemplateMVCCrawler\\TemplateMVCCrawler.csproj",
+        "projectPath": "C:\\Users\\gestaomargiteens\\Documents\\GitHubRegymatrix\\templateMVCCrawler\\TemplateMVCCrawler\\TemplateMVCCrawler\\TemplateMVCCrawler.csproj",
         "packagesPath": "C:\\Users\\gestaomargiteens\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gestaomargiteens\\Documents\\TemplateMVCCrawler\\TemplateMVCCrawler\\obj\\",
+        "outputPath": "C:\\Users\\gestaomargiteens\\Documents\\GitHubRegymatrix\\templateMVCCrawler\\TemplateMVCCrawler\\TemplateMVCCrawler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gestaomargiteens\\AppData\\Roaming\\NuGet\\NuGet.Config",

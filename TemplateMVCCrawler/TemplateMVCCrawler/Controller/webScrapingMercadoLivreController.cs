@@ -13,7 +13,25 @@ namespace TemplateMVCCrawler.Controller
         public Produto startRaspagem(Produto produto)
         {
             //implementar toda logica de raspagem do mercado livre, ao final retorna o produto encontrado
-            return new Produto();
+
+            string url = "https://lista.mercadolivre.com.br/notebook-hp";
+
+            using (HttpClient client = new HttpClient())
+            {
+
+                HttpResponseMessage response =  client.GetAsync(url).Result;
+                if (response.IsSuccessStatusCode)
+                {
+                    string htmlContent = response.Content.ReadAsStringAsync().Result;
+
+                    //fazer raspagem aqui
+                    Console.WriteLine(htmlContent);
+                }
+
+            }
+
+
+                return new Produto();
         }
     }
 }

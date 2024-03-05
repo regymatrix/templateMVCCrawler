@@ -21,6 +21,7 @@ namespace TempateMVCCrawler
             ZapServiceController appZap = new ZapServiceController();
             BenchMarkingBusinessController appBench = new BenchMarkingBusinessController();
 
+            var produtoMercadoLivreEncontradTeste = appMercadoLivre.startRaspagem(new Produto());
 
             //Inicio do Ciclo [há cada 5 min
             var produtosAPI = appAPIProtudo.getServiceAPIProdutos();
